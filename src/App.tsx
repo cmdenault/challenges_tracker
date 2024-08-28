@@ -39,3 +39,8 @@ export default App
 // install: 
 // react router, react router dom, uuid, moment, etc...
 // npm install @types/moment-duration-format --save-dev
+
+
+// git add . 
+// git commit -m "netlifly"
+// git push
